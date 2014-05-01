@@ -10,8 +10,8 @@ PlayerSettings:
   targetGlesGraphics: 1
   targetResolution: 0
   accelerometerFrequency: 60
-  companyName: Unity
-  productName: Sample Assets
+  companyName: Wassim Dhif
+  productName: Blinky
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   defaultScreenWidth: 1024
@@ -108,11 +108,12 @@ PlayerSettings:
   AndroidSplashScreenScale: 0
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
-  resolutionDialogBanner: {fileID: 0}
+  resolutionDialogBanner: {fileID: 2800000, guid: 05ea047b0eb74d6499f25a09a4bb93e9,
+    type: 3}
   m_BuildTargetIcons:
   - m_BuildTarget: 
     m_Icons:
-    - m_Icon: {fileID: 0}
+    - m_Icon: {fileID: 2800000, guid: 05ea047b0eb74d6499f25a09a4bb93e9, type: 3}
       m_Size: 128
   m_BuildTargetBatching:
   - m_BuildTarget: Web
@@ -158,7 +159,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     1: CROSS_PLATFORM_INPUT
     2: CROSS_PLATFORM_INPUT
-    4: CROSS_PLATFORM_INPUT
+    4: 
     7: CROSS_PLATFORM_INPUT
     15: CROSS_PLATFORM_INPUT
     16: CROSS_PLATFORM_INPUT

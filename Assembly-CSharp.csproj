@@ -69,15 +69,12 @@
      <Compile Include="Assets\Cross Platform Input\Scripts\TouchPadRelativePositional.cs" />
      <Compile Include="Assets\Cross Platform Input\Scripts\TouchPadSwipe.cs" />
      <Compile Include="Assets\Cross Platform Input\Scripts\VirtualInput.cs" />
-     <Compile Include="Assets\Effects\Particle Systems\scripts\AfterburnerPhysicsForce.cs" />
-     <Compile Include="Assets\Effects\Particle Systems\scripts\ExtinguishableParticleSystem.cs" />
-     <Compile Include="Assets\Effects\Particle Systems\scripts\FireLight.cs" />
-     <Compile Include="Assets\Effects\Particle Systems\scripts\Hose.cs" />
      <Compile Include="Assets\Effects\Particle Systems\scripts\ParticleSystemMultiplier.cs" />
      <Compile Include="Assets\Effects\Particle Systems\scripts\SmokeParticles.cs" />
-     <Compile Include="Assets\Effects\Particle Systems\scripts\WaterHoseParticles.cs" />
+     <Compile Include="Assets\Scripts\PowerUpScript.cs" />
      <Compile Include="Assets\Scripts\cameraRunnerScript.cs" />
      <Compile Include="Assets\Scripts\destroyerScript.cs" />
+     <Compile Include="Assets\Scripts\gameOverScript.cs" />
      <Compile Include="Assets\Scripts\hudScript.cs" />
      <Compile Include="Assets\Scripts\spawnScript.cs" />
      <None Include="Assets\Effects\Particle Systems\Shaders\Priority Particle Alpha.shader" />

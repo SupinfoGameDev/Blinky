@@ -15,6 +15,11 @@ public class hudScript : MonoBehaviour {
 		playerScore += amount;
 	}
 
+	void OnDisable ()
+	{
+		PlayerPrefs.SetInt("Score", (int) (playerScore * 100));
+	}
+
 	void OnGUI()
 	{
 		GUI.Label (new Rect (10, 10, 100, 30), "Score : " + (int)(playerScore * 100));
