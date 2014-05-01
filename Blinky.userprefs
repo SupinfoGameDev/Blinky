@@ -1,13 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\hudScript.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Google Drive\IT\Labo GameDev\FuckNewton\Wassim\FuckNewton\Assets\2D\Scripts\Platformer2DUserControl.cs">
     <Files>
-      <File FileName="Assets\Sample Assets\2D\Scripts\Platformer2DUserControl.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sample Assets\2D\Scripts\PlatformerCharacter2D.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\destroyerScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\spawnScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\cameraRunnerScript.cs" Line="15" Column="68" />
-      <File FileName="Assets\Scripts\hudScript.cs" Line="20" Column="51" />
+      <File FileName="..\..\Google Drive\IT\Labo GameDev\FuckNewton\Wassim\FuckNewton\Assets\2D\Scripts\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="..\..\Google Drive\IT\Labo GameDev\FuckNewton\Wassim\FuckNewton\Assets\2D\Scripts\Camera2DFollow.cs" Line="1" Column="1" />
+      <File FileName="..\..\Google Drive\IT\Labo GameDev\FuckNewton\Wassim\FuckNewton\Assets\2D\Scripts\Platformer2DUserControl.cs" Line="24" Column="6" />
+      <File FileName="..\..\Google Drive\IT\Labo GameDev\FuckNewton\Wassim\FuckNewton\Assets\2D\Scripts\PlatformerCharacter2D.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

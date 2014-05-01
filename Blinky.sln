@@ -5,10 +5,6 @@ Project("{71ABDF09-EA3F-9EFB-2FC7-ABAE36672B82}") = "Blinky", "Assembly-CSharp.c
 EndProject
 Project("{71ABDF09-EA3F-9EFB-2FC7-ABAE36672B82}") = "Blinky", "Assembly-CSharp-Editor.csproj", "{8FD1DAE2-F466-3AC7-8C5A-5C87387F9A23}"
 EndProject
-Project("{71ABDF09-EA3F-9EFB-2FC7-ABAE36672B82}") = "Blinky", "Assembly-UnityScript.unityproj", "{2B19038B-4092-A753-8442-E890423F8136}"
-EndProject
-Project("{71ABDF09-EA3F-9EFB-2FC7-ABAE36672B82}") = "Blinky", "Assembly-UnityScript-Editor.unityproj", "{DD34FA30-D20F-981A-9C36-255A65B8E13D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,19 +19,11 @@ Global
 		{8FD1DAE2-F466-3AC7-8C5A-5C87387F9A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FD1DAE2-F466-3AC7-8C5A-5C87387F9A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FD1DAE2-F466-3AC7-8C5A-5C87387F9A23}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2B19038B-4092-A753-8442-E890423F8136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2B19038B-4092-A753-8442-E890423F8136}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2B19038B-4092-A753-8442-E890423F8136}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2B19038B-4092-A753-8442-E890423F8136}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD34FA30-D20F-981A-9C36-255A65B8E13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD34FA30-D20F-981A-9C36-255A65B8E13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD34FA30-D20F-981A-9C36-255A65B8E13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD34FA30-D20F-981A-9C36-255A65B8E13D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-									GlobalSection(MonoDevelopProperties) = preSolution
+																												GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
